@@ -30,7 +30,7 @@ $wp_query->is_404 = false;
  * @since 3.0.0
  */
 do_action( 'activate_header' );
-
+//addingnew comment in wp active page as a contributor
 /**
  * Adds an action hook specific to this page that fires on wp_head
  *
